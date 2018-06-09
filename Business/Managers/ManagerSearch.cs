@@ -29,7 +29,8 @@ namespace Business.Managers
             {
                 for (int col = 0; col < countCol; col++)
                 {
-                    if (matriz[row, col] == word.ElementAt(0))
+                    var letter = matriz[row, col].ToString();
+                    if (letter.Equals(word.ElementAt(0).ToString(), StringComparison.OrdinalIgnoreCase))
                     {
                         result = findWordArray(matriz, word, row, col);
                         if (result != null)
@@ -48,7 +49,7 @@ namespace Business.Managers
 
         private int[,] findWordArray(char[,] matriz, String word, int row, int col)
         {
-            return checkUp.checkDireccion(matriz, word, row, col);
+            return checkUp.CheckDireccion(matriz, word, row, col);
         }
 
         private string BuildResponse(int[,] matriz)

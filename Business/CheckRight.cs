@@ -15,7 +15,7 @@ namespace Business
         {
             this.next = direccion;
         }
-        public int[,] checkDireccion(char[,] matriz, string word, int row, int col)
+        public int[,] CheckDireccion(char[,] matriz, string word, int row, int col)
         {
             int[,] result = new int[word.Count(), 2];
             if (col + word.Count() <= matriz.GetUpperBound(0))
@@ -24,7 +24,7 @@ namespace Business
                 {
                     if (matriz[row, offset] != word.ElementAt(offset))
                     {
-                        return next.checkDireccion(matriz, word, row, col);
+                        return next.CheckDireccion(matriz, word, row, col);
                     }
                     ConvertToResponseExamen(ref result, row, col, offset);
                 }
@@ -32,7 +32,7 @@ namespace Business
             }
             else
             {
-                return next.checkDireccion(matriz, word, row, col);
+                return next.CheckDireccion(matriz, word, row, col);
             }
         }
 

@@ -10,7 +10,7 @@ namespace Business
     public class EndPattern : IDirection
     {
 
-        public int[,] checkDireccion(char[,] matriz, string word, int row, int col)
+        public int[,] CheckDireccion(char[,] matriz, string word, int row, int col)
         {
             return null;
         }

@@ -8,8 +8,8 @@ namespace Business.Interfaces
 {
     public interface IDirection
     {
-         int[,] checkDireccion(char[,] matriz, String word, int row, int col);
+        int[,] CheckDireccion(char[,] matriz, String word, int row, int col);
         void ConvertToResponseExamen(ref int[,] array, int rowResponse, int colResponse, int offSetResponse);
-      
+
     }
 }
