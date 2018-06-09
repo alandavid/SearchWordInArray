@@ -1,0 +1,7 @@
+D:\TFS\Telefe\AplicationSearchWordInArray\bin\Debug\AplicationSearchWordInArray.exe.config
+D:\TFS\Telefe\AplicationSearchWordInArray\bin\Debug\AplicationSearchWordInArray.exe
+D:\TFS\Telefe\AplicationSearchWordInArray\bin\Debug\AplicationSearchWordInArray.pdb
+D:\TFS\Telefe\AplicationSearchWordInArray\obj\Debug\AplicationSearchWordInArray.csprojResolveAssemblyReference.cache
+D:\TFS\Telefe\AplicationSearchWordInArray\obj\Debug\AplicationSearchWordInArray.csproj.CoreCompileInputs.cache
+D:\TFS\Telefe\AplicationSearchWordInArray\obj\Debug\AplicationSearchWordInArray.exe
+D:\TFS\Telefe\AplicationSearchWordInArray\obj\Debug\AplicationSearchWordInArray.pdb

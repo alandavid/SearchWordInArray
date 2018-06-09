@@ -1,0 +1,6 @@
+D:\TFS\Telefe\Common\bin\Debug\Common.dll
+D:\TFS\Telefe\Common\bin\Debug\Common.pdb
+D:\TFS\Telefe\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\TFS\Telefe\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\TFS\Telefe\Common\obj\Debug\Common.dll
+D:\TFS\Telefe\Common\obj\Debug\Common.pdb

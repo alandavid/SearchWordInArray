@@ -1,0 +1,9 @@
+D:\TFS\Telefe\DataAccess\bin\Debug\DataAccess.dll.config
+D:\TFS\Telefe\DataAccess\bin\Debug\DataAccess.dll
+D:\TFS\Telefe\DataAccess\bin\Debug\DataAccess.pdb
+D:\TFS\Telefe\DataAccess\bin\Debug\Common.dll
+D:\TFS\Telefe\DataAccess\bin\Debug\Common.pdb
+D:\TFS\Telefe\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\TFS\Telefe\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\TFS\Telefe\DataAccess\obj\Debug\DataAccess.dll
+D:\TFS\Telefe\DataAccess\obj\Debug\DataAccess.pdb
