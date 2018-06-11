@@ -1,7 +1,5 @@
 # SearchWordInArray
 
-Objetivo
+The purpose of the application is to generate an algorithm to find a word passed by a parameter and return the positions of the letters in the matrix.
 
-La aplicación tiene como objetivo generar un algoritmo para encontrar una palabra pasada por parámetro y devolver las posiciones de las letras en la matriz.
-
-Para la funcionalidad fue utilizado el patrón “chain of responsibility” debido que mi idea fue recorrer la matriz y cuando encentrar la primera letra de la palabra buscada el método hace una barredura entre diferentes direcciones de la matriz (Arriba, Abajo, Derecha, Izquierda, Diagonal, Diagonal Reversa), o sea mientras no encuentro la palabra el receptor (Dirección) sabe cómo seguir (Hacia Cual Dirección) una vez encontrada devuelvo sus posiciones.
+For the functionality the "chain of responsibility" pattern was used because my idea was to go through the matrix and when I found the first letter of the searched word the method does a sweep between different directions of the matrix (Up, Down, Right, Left, Diagonal, Reverse Diagonal), that is, as long as I do not find the word the receiver (Direction) knows how to follow (Towards Which Direction) once found I return their positions.
